@@ -1,0 +1,87 @@
+
+#JustWeb {
+  z-index: 1;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-bottom: 1px solid grey;
+  min-width: 100%;
+  max-height: 100px;
+  background-color: #b4eaff;
+}
+
+#JustWeb h1 {
+  color: black;
+  padding-right: 55%;
+  margin-left: 2%;
+}
+
+#JustWeb a {
+  font-size: 20px;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+header{
+  height: 60px;
+}
+
+body{
+  background-color:#e8f9ff;
+}
+
+#wrap{
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.groups{
+  min-width: 50%;
+}
+
+.box{
+  max-width: 70%;;
+  background-color: white;
+  border:1px solid grey;
+  margin-left: 20%;
+  min-height: 5%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.boxes{
+  max-width: 70%;
+  height:100px;
+  background-color: white;
+  border:1px solid grey;
+  margin-left: 20%;
+  margin-top: 5%;
+}
+
+.boxes h3, h4{
+  margin-left: 2%;
+}
+
+
+.boxx{
+  max-width: 70%;;
+  background-color: white;
+  border:1px solid grey;
+  margin-left: 10%;
+  min-height: 5%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.boxess{
+  max-width: 70%;
+  height:100px;
+  background-color: white;
+  border:1px solid grey;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+
+.boxess h3, h4{
+  margin-left: 2%;
+}

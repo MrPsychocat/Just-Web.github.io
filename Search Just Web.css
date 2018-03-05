@@ -1,0 +1,101 @@
+#JustWeb {
+  z-index: 1;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-bottom: 1px solid grey;
+  min-width: 100%;
+  max-height: 100px;
+  background-color: #b4eaff;
+}
+
+#JustWeb h1 {
+  color: black;
+  padding-right: 55%;
+  margin-left: 2%;
+}
+
+#JustWeb a {
+  font-size: 20px;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+header{
+  height: 60px;
+}
+
+body{
+  background-color:#e8f9ff;
+}
+
+#search{
+  min-width: 100%;
+  min-height: 51%;
+}
+
+.box{
+  min-height: 7%;
+  max-width: 30%;
+  border:.1px solid #e8f9ff;;
+  margin-left: 35%;
+}
+
+.annoyance{
+  max-width: 100%;
+  max-height: 7%;
+  border: solid grey 1px;
+  margin-top: 30%;
+  background-color: white;
+}
+
+.annoyance h4{
+  margin-top: 3.5%;
+  margin-left: 1%;
+}
+
+#section{
+  min-height: 30%;
+  max-width: 100%;
+  display:flex;
+  flex-wrap: wrap;
+  background-color: white;
+  justify-content: center;
+}
+
+#section p{
+  margin-left: 1%;
+  font-size: 20px;
+}
+
+.group{
+  min-height: 20%;
+  max-width: 70%;
+  border: solid 1px grey;
+  margin-left: 15%;
+  background-color:#e8f9ff;
+  background-image: url("http://www.catster.com/wp-content/uploads/2017/08/A-fluffy-cat-looking-funny-surprised-or-concerned.jpg");
+  background-size: cover;
+}
+
+.text{
+  text-align: center;
+  background-color: lightgrey;
+  min-width:100%;
+  padding-bottom: .5%;
+  max-height: 7%;
+  border-bottom: 1px black solid;
+}
+
+.text h2{
+  padding-top: 1%;
+}
+
+.name{
+  min-width: 15%;
+  text-align: center;
+}
+
+.name h4{
+  margin-bottom: 4%;
+}

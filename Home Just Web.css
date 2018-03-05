@@ -1,0 +1,129 @@
+#JustWeb {
+  z-index: 1;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-bottom: 1px solid grey;
+  min-width: 100%;
+  max-height: 100px;
+  background-color: #b4eaff;
+}
+
+#JustWeb h1 {
+  color: black;
+  padding-right: 55%;
+  margin-left: 2%;
+}
+
+#JustWeb a {
+  font-size: 20px;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+header{
+  height: 60px;
+}
+
+body{
+  background-color:#e8f9ff;
+}
+
+#flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#wrap{
+  display:flex;
+  min-width: 25%;
+  margin-top: 1%;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+#wrapp{
+  display:flex;
+  min-height: 100%;
+  min-width: 50%;
+  margin-top: 1%;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+#section{
+  max-width: 100%;
+  min-height: 125%;
+  border:1px solid grey;
+  display:flex;
+  flex-wrap: wrap;
+  background-color: white;
+  margin-top: 2%;
+}
+
+.title{
+  margin-left: 22%;
+  margin-top: 2%;
+  min-width: 50%;
+  text-align: center;
+}
+
+.box{
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-bottom: 12%;
+  min-width: 37%;
+  min-height:125px;
+  border:solid black 1px;
+  background-color:#e8f9ff;
+}
+
+.catagories{
+  margin-top: 2%;
+  background-color: white;
+  min-height:125%;
+  text-align: center;
+  border: 1px solid grey;
+}
+
+.boxx{
+  margin-right: 5%;
+  margin-top: 6%;
+  margin-bottom: 10%;
+  margin-left: 5%;
+  min-width: 37%;
+  min-height:50px;
+  border:solid black 1px;
+  background-color:#e8f9ff;
+}
+
+.big{
+  margin-top: 1%;
+  min-height: 125%;
+  min-width: 100%;
+  background-color: #e8f9ff;
+}
+
+.events{
+  text-align: center;
+  margin-left: 25%;
+  margin-top: 3%;
+  max-width: 50%;
+  min-height: 10%;
+  background-color: white;
+  border: 1px solid grey;
+}
+
+.post{
+  margin-left: 6.5%;
+  min-height:200px;
+  min-width:40%;
+  border:solid grey 1px;
+  margin-top: 10%;
+  background-color: white;
+}
+
+#wrappp{
+  display: flex;
+  flex-wrap: wrap;
+}
